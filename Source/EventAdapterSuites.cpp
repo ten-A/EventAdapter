@@ -29,12 +29,12 @@ extern "C"
 ImportSuite gImportSuites[] = 
 {
     kAIMdMemorySuite, kAIMdMemorySuiteVersion, &sAIMdMemory,
-	kAIMenuSuite, kAIMenuSuiteVersion, &sAIMenu,
-	kAIToolSuite, kAIToolSuiteVersion, &sAITool,
-	kAIRuntimeSuite, kAIRuntimeSuiteVersion, &sAIRuntime,
- 	kAIUnicodeStringSuite, kAIUnicodeStringSuiteVersion, &sAIUnicodeString,
-	kSPBlocksSuite, kSPBlocksSuiteVersion, &sSPBlocks,
- 	kAIStringFormatUtilsSuite, kAIStringFormatUtilsSuiteVersion, &sAIStringFormatUtils,
+    kAIMenuSuite, kAIMenuSuiteVersion, &sAIMenu,
+    kAIToolSuite, kAIToolSuiteVersion, &sAITool,
+    kAIRuntimeSuite, kAIRuntimeSuiteVersion, &sAIRuntime,
+    kAIUnicodeStringSuite, kAIUnicodeStringSuiteVersion, &sAIUnicodeString,
+    kSPBlocksSuite, kSPBlocksSuiteVersion, &sSPBlocks,
+    kAIStringFormatUtilsSuite, kAIStringFormatUtilsSuiteVersion, &sAIStringFormatUtils,
     kAISwatchListSuite, kAISwatchListSuiteVersion, &sAISwatchList,
     kAILayerSuite, kAILayerSuiteVersion, &sAILayer,
     kAIActionManagerSuite, kAIActionManagerSuiteVersion, &sAIActionManager,
